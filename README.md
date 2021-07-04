@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudKSultan
 - 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mahmoodkns@hotmail.com
 
